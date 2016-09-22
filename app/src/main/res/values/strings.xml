@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConsultaClientes</string>
+    <string name="hauto">Ingrese razon social de empresa</string>
+    <string name="etiq1">Inscripcion:</string>
+    <string name="etiq2">Razon Social:</string>
+    <string name="etiq3">Rubro:</string>
+</resources>
